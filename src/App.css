@@ -1,0 +1,30 @@
+.box{
+  display: flex;
+  
+}
+.full{
+  background-color:  #cce4ff; 
+}
+.part{
+  background-color: #ff3333;
+}
+.kids{
+  background-color: #00ace6;
+}
+.summer{
+  background-color: #004b66;
+
+}
+.numbers{
+  background-image: url(https://cdn1.itpro.co.uk/sites/itpro/files/styles/article_main_wide_image/public/2017/08/bigstock-program-89200619.jpg?itok=QdzCBlEZ);
+  background-repeat: no-repeat;
+  background-size: 1400px;
+}
+.place{
+  display: flex;
+}
+img{
+  width: 390px;
+  height: 300px;
+  padding: 25px;
+}
